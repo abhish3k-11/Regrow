@@ -18,7 +18,7 @@ We provide various functionalities listed below:
 </ul>
 
 Link to Video Presentation:
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/IjCpYC4.png)](https://youtu.be/0UxPH3suLbg)
+[![IMAGE ALT TEXT HERE]](https://youtu.be/YhCOrT2ERCc)
 
 ## Setup
 Let's get you started with this interesting project of ours:
