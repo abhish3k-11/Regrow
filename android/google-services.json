@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906860830974",
+    "project_id": "regrow-6931d",
+    "storage_bucket": "regrow-6931d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906860830974:android:4283dbf85f3a57789e85af",
+        "android_client_info": {
+          "package_name": "com.example.regrow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906860830974-nbahh6qaa8kahqbr4pdem4gvi0cq07em.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBUEV1VlsD1hy2nOqbvUt2O-eRnn0dzv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906860830974-nbahh6qaa8kahqbr4pdem4gvi0cq07em.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
